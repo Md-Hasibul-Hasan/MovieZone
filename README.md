@@ -2,7 +2,7 @@
 
 MovieZone is a modern single-page movie browsing application built with **React** and **Tailwind CSS**.  
 It allows users to explore movies using category filtering, real-time search, and client-side pagination — all powered by a centralized filtering logic.
-
+#visit: https://movie-zone-lime.vercel.app/
 ---
 
 ## 🚀 Features
